@@ -1,0 +1,63 @@
+class student
+/*
+public class Student {
+    String name;
+    int age;
+    private int weight;
+    void setWeight(int weight){
+        this.weight = weight;
+    }
+    int getWeight(){
+        return weight;
+    }
+    Student(){
+        age = 0;
+        name = "default";
+        weight = 50;
+        System.out.println("Student default constructor");
+        System.out.println(age + " " + name + " " + weight);
+    }
+
+    void birthday(){
+    age++;
+        System.out.println("Happy birthday, " + name + "<3");
+    }
+    void yaPokushal(){
+        weight++;
+        System.out.println("You did well to eat, " + name);
+    }
+} */
+class teacher /*
+public class Teacher {
+    Student[] students = new Student[3];
+
+     Teacher(){
+        for (int i = 0; i < 3; i++){
+            students[i] = new Student();
+        }
+    }
+    void information(){
+         for (int i = 0; i < 3; i++){
+             students[i].getWeight();
+             String name = students[i].name;
+             int age = students[i].age;
+         }
+    }
+    void vsePoeli(){
+        for (int i = 0; i < 3; i++){
+            students[i].yaPokushal();
+        }
+    }
+} */
+class university /*
+public class University {
+    public static void main(String[] args) {
+        args = new String[3];
+        String teacher1 = args[0];
+        String teacher2 = args[1];
+        String teacher3 = args[2];
+        for (int i =0; i < 3; i++){
+            args[i] = new String();
+        }
+        }
+    } */
